@@ -9,7 +9,7 @@
         "krakjoe/pthreads-polyfill": "*"
     },
     "require": {
-        "php": ">=7.4.0",
+        "php": ">=7.2.0",
         "danog/primemodule": "^1",
         "danog/tgseclib": "^3",
         "erusev/parsedown": "^1.7",
@@ -32,7 +32,7 @@
         "amphp/http-client-cookies": "^1",
         "danog/tg-file-decoder": "^0.1",
         "danog/magicalserializer": "^1.0",
-        "league/uri": "^6",
+        "league/uri": "^4",
         "danog/ipc": "^0.1",
         "tivie/htaccess-parser": "^0.2.3",
         "amphp/log": "^1.1"
