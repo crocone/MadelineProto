@@ -32,7 +32,7 @@
         "amphp/http-client-cookies": "^1",
         "danog/tg-file-decoder": "^0.1",
         "danog/magicalserializer": "^1.0",
-        "league/uri": "^1",
+        "league/uri": "*",
         "danog/ipc": "^0.1",
         "tivie/htaccess-parser": "^0.2.3",
         "amphp/log": "^1.1"
